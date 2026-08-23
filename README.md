@@ -6,7 +6,7 @@ work in released starter files and commit your work locally.
 ## Set up Git once
 
 ```bash
-git clone https://github.com/TEACHER-ACCOUNT/REPOSITORY-NAME.git VIT1106_student_labs
+git clone https://github.com/vu-vit1106/vit1106-2026-H2B2.git VIT1106_student_labs
 cd VIT1106_student_labs
 git remote rename origin upstream
 git remote -v
